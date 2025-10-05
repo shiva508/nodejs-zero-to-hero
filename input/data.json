@@ -1,0 +1,20 @@
+[
+  {
+    "productId": 1,
+    "productName": "Laptop",
+    "productPrice": 1200,
+    "productMnfct": "Dell"
+  },
+  {
+    "productId": 2,
+    "productName": "Smartphone",
+    "productPrice": 800,
+    "productMnfct": "Samsung"
+  },
+  {
+    "productId": 3,
+    "productName": "Headphones",
+    "productPrice": 150,
+    "productMnfct": "Sony"
+  }
+]
